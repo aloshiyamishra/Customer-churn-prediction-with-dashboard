@@ -60,7 +60,7 @@ Used:
 
 Evaluated using:
 
-* Accuracy Score
+* Accuracy Score --> ROC AUC score = 0.8768
 
 ---
 
